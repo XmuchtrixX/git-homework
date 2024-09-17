@@ -1,1 +1,9 @@
-hte
+.container {
+  display: flex;
+}
+.text2 {
+  font-size: 10px;
+}
+.text {
+  font-size: 15px;
+}
